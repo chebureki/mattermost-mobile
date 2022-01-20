@@ -26,6 +26,7 @@ const styles = StyleSheet.create({
         top: 0,
         width: '100%',
         elevation: 10,
+        zIndex: 10,
     },
 });
 
